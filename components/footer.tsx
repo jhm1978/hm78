@@ -34,9 +34,9 @@ export function Footer() {
     location: "서울특별시 송파구 문정동",
     copyright: "© 2025 정혁민. All rights reserved.",
     showMadeWith: true,
-    madeWithLocation: "Mrbaeksang",
+    madeWithLocation: "감정평가법인 대교 대표이사 정혁민",
     showTemplateCredit: true,
-    templateCreator: {"name":"백상","youtube":"https://www.youtube.com/@Mrbaeksang95/videos","website":"https://devcom.kr/","email":"qortkdgus95@gmail.com"},
+
     showScrollTop: true
   }
 
