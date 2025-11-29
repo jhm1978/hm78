@@ -32,7 +32,7 @@ export function Footer() {
     phone: "010-4499-6466",
     email: "jhm1592@naver.com",
     location: "서울특별시 송파구 문정동",
-    copyright: "",
+    copyright: "© 2025 정혁민. All rights reserved.",
     showMadeWith: true,
     madeWithLocation: "Mrbaeksang",
     showTemplateCredit: true,
